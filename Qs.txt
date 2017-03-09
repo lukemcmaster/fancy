@@ -16,7 +16,5 @@ Use '--' to separate paths from revisions, like this:
 
 7) what do I need to do before I exit the terminal?
 
-8) what does the > mean in (master *>)
-
-9
+8)
 
