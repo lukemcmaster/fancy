@@ -10,5 +10,13 @@ Use '--' to separate paths from revisions, like this:
 
 4)is the .git folder basically just always behind the actual folder, and when I commit all tracking and staged it brings the .git folder up-to-date? And when I checkout HEAD i bring the true folder back to the .git folder?
 
-5)
+5)does ‘git push’ push everything or only the branch you are in? what does git push -u origin master then do?
+
+6) when is cloning a repo useful?
+
+7) what do I need to do before I exit the terminal?
+
+8) what does the > mean in (master *>)
+
+9
 
