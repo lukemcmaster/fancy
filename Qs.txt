@@ -1,0 +1,12 @@
+1) what does this mean?
+luke@lukes-mac:~/gitstuff/fancy (master=)$ git diff ~staged
+fatal: ambiguous argument '~staged': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+
+2) I wanna try explain the branch diagram you originally sent
+
+3) ctrl+c vs ctrl+u effectively do the the same thing?
+
+4)is the .git folder basically just always behind the actual folder, and when I commit all tracking and staged it brings it up-to-date?
+
