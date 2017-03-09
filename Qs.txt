@@ -8,5 +8,7 @@ Use '--' to separate paths from revisions, like this:
 
 3) ctrl+c vs ctrl+u effectively do the the same thing?
 
-4)is the .git folder basically just always behind the actual folder, and when I commit all tracking and staged it brings it up-to-date?
+4)is the .git folder basically just always behind the actual folder, and when I commit all tracking and staged it brings the .git folder up-to-date? And when I checkout HEAD i bring the true folder back to the .git folder?
+
+5)
 
